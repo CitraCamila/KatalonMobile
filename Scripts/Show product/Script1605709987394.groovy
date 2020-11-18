@@ -24,15 +24,5 @@ Mobile.tap(findTestObject('Object Repository/Show product/android.widget.ImageBu
 
 Mobile.tap(findTestObject('Object Repository/Show product/android.widget.ImageView (1)'), 0)
 
-Mobile.tap(findTestObject(''), 0)
-
-Mobile.tap(findTestObject('Object Repository/Show product/android.widget.ImageView (2)'), 0)
-
-Mobile.tap(findTestObject(''), 0)
-
-Mobile.tap(findTestObject('Object Repository/Show product/android.widget.ImageView (3)'), 0)
-
-Mobile.tap(findTestObject(''), 0)
-
 Mobile.closeApplication()
 
